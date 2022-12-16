@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Jakex-123/react-weather-app/static/css/main.ec8cd0c5.css",
+    "main.js": "/Jakex-123/react-weather-app/static/js/main.b75b8f60.js",
+    "static/js/787.13d76ca7.chunk.js": "/Jakex-123/react-weather-app/static/js/787.13d76ca7.chunk.js",
+    "static/media/xyz.jpg": "/Jakex-123/react-weather-app/static/media/xyz.9d28c570c85cf8e45e26.jpg",
+    "index.html": "/Jakex-123/react-weather-app/index.html",
+    "main.ec8cd0c5.css.map": "/Jakex-123/react-weather-app/static/css/main.ec8cd0c5.css.map",
+    "main.b75b8f60.js.map": "/Jakex-123/react-weather-app/static/js/main.b75b8f60.js.map",
+    "787.13d76ca7.chunk.js.map": "/Jakex-123/react-weather-app/static/js/787.13d76ca7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec8cd0c5.css",
+    "static/js/main.b75b8f60.js"
+  ]
+}
